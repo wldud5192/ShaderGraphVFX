@@ -44,7 +44,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal_Map:
-        m_Texture: {fileID: 2800000, guid: e59def53982f48c42a101f7fdf27d5d8, type: 3}
+        m_Texture: {fileID: 2800000, guid: f1e913fecca0f824c9b7750b24814545, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -68,7 +68,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture_Map:
-        m_Texture: {fileID: 2800000, guid: f1e913fecca0f824c9b7750b24814545, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2794cc53928526a488ea266ddcabe47e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
@@ -78,7 +78,7 @@ Material:
     - _Blend: 0
     - _BumpScale: 1
     - _CellDensity: 0
-    - _Cell_Density: 12
+    - _Cell_Density: 5
     - _Cull: 2
     - _Cutoff: 0.5
     - _DstBlend: 0
@@ -87,7 +87,7 @@ Material:
     - _GlossyReflections: 1
     - _Metallic: 0
     - _NormalStrength: 0
-    - _Normal_Strength: 6
+    - _Normal_Strength: 20
     - _OcclusionStrength: 1
     - _Offset_Speed: 1
     - _ReceiveShadows: 1

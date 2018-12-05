@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Client
+  - Canvas
   layers:
   - Default
   - TransparentFX
